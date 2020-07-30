@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpeakerRecognition</string>
+    <string name="top_text">Play any audio of the following speakers</string>
+    <string name="nelson_mandela">Nelson Mandela</string>
+    <string name="julia_gillard">Julia Gillard</string>
+    <string name="jens_stoltenberg">Jens Stoltenberg</string>
+    <string name="margaret_tacher">Margaret Tacher</string>
+    <string name="benjamin_netanyahu">Benjamin Netanyahu</string>
+</resources>
